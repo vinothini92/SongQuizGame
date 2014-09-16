@@ -1,0 +1,1134 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"URL",
+				"urlpatterns"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"b",
+				"BASE_DIR"
+			],
+			[
+				"save",
+				"save_it"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"rende",
+				"render_to_response"
+			],
+			[
+				"S",
+				"SignUpAdmin"
+			],
+			[
+				"au",
+				"auto_now"
+			],
+			[
+				"aut",
+				"auto_add_now"
+			],
+			[
+				"Song",
+				"SongQuiz"
+			],
+			[
+				"So",
+				"SongQuiz"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"di",
+				"dirname"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"ht",
+				"http"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"RO",
+				"ROOT_DIR"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Ne",
+				"NewyorkSpider"
+			],
+			[
+				"v",
+				"vino"
+			],
+			[
+				"se",
+				"selenium"
+			],
+			[
+				"hotel",
+				"hotel_name"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"par",
+				"parse_hotels"
+			],
+			[
+				"p",
+				"parse_reviews"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"post",
+				"posted_date"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"To",
+				"Total_reviews"
+			],
+			[
+				"ho",
+				"hotel_name"
+			],
+			[
+				"Hotel",
+				"hotel_name"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"rev",
+				"reviews"
+			],
+			[
+				"r",
+				"review"
+			],
+			[
+				"te",
+				"temp_reviews"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"song",
+				"song_data"
+			],
+			[
+				"son",
+				"song_name"
+			],
+			[
+				"t",
+				"title	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"bookre",
+				"bookRenderer"
+			],
+			[
+				"resul",
+				"result_box"
+			],
+			[
+				"st",
+				"strTrans"
+			],
+			[
+				"ti",
+				"titles"
+			],
+			[
+				"c",
+				"craigslist"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"fiel",
+				"Field"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bod",
+				"border-radius"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"nod",
+				"nodeType"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"pro",
+				"prototypes"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"content",
+				"contentWindow"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"dele",
+				"deleteHighlight"
+			],
+			[
+				"span",
+				"spanNodes"
+			],
+			[
+				"un",
+				"Unhlelements"
+			],
+			[
+				"high",
+				"highlighted1"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"sear",
+				"search_results"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"send",
+				"sendProgress1"
+			],
+			[
+				"txt",
+				"txtSnippet"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"final",
+				"finalnode"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"xp",
+				"xpaths"
+			],
+			[
+				"con",
+				"contentDoc"
+			],
+			[
+				"cont",
+				"contentDoc"
+			],
+			[
+				"Ta",
+				"TAPPED"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"boo",
+				"bookdata"
+			],
+			[
+				"com",
+				"compat"
+			],
+			[
+				"Mono",
+				"Monocle-3"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"hig",
+				"highlighted"
+			],
+			[
+				"new",
+				"newMarkerId"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"de",
+				"deleteHighlight"
+			],
+			[
+				"hi",
+				"highlighted"
+			],
+			[
+				"text",
+				"textNodesUnder"
+			],
+			[
+				"conte",
+				"contentDocument"
+			],
+			[
+				"do",
+				"dom"
+			],
+			[
+				"rea",
+				"reader"
+			],
+			[
+				"search",
+				"search_keyword"
+			],
+			[
+				"book",
+				"bookRenderer"
+			],
+			[
+				"contentWin",
+				"contentWindow"
+			],
+			[
+				"getEle",
+				"getElementsByTagName"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"per",
+				"percentBottom"
+			],
+			[
+				"reader",
+				"reader1"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"pol",
+				"poll_id"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Blog",
+				"BlogPost"
+			],
+			[
+				"P",
+				"P"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/SongQuiz/settings.py",
+			"settings":
+			{
+				"buffer_size": 2101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static/templates/display_question.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Guessit/models.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Guessit/admin.py",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/SongQuiz/urls.py",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Guessit/views.py",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/mvp_landing/settings.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/navbar.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/mvp_landing/urls.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/signup.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/base.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/aboutus.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/signups/models.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/signups/admin.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/signups/tests.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/signups/forms.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/signups/views.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/thankyou.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/static/css/styles.css",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/static/css/jumbotron.css",
+		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/static/css/bootstrap.min.css",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/urls.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/SongQuiz/form.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/SongQuiz/views.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/static/templates/base.html",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/SongQuiz/models.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/settings.py",
+		"/home/vinothini/projects/virtualenvs/skillshare/src/SongQuiz/tests.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/SongQuiz/settings.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/manage.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/templates/Guessit/simple.html",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/settings.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/urls.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/src/templates/Guessit/boostrap.html",
+		"/home/vinothini/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/Guessit/urls.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/Guessit/views.py",
+		"/var/www/prabha/style.css",
+		"/var/www/prabha/index.html",
+		"/home/vinothini/projects/DjangoWorkshop/stylesheet.css",
+		"/home/vinothini/projects/DjangoWorkshop/test.css",
+		"/home/vinothini/projects/DjangoWorkshop/udacity 101/varaiables.py",
+		"/home/vinothini/projects/DjangoWorkshop/position.css",
+		"/home/vinothini/projects/DjangoWorkshop/udacity 101/speed_of_light.py",
+		"/home/vinothini/projects/DjangoWorkshop/udacity 101/minutes_in_week.py",
+		"/home/vinothini/projects/DjangoWorkshop/test.html",
+		"/home/vinothini/projects/learn_JS/learn_js.sublime-project",
+		"/home/vinothini/projects/testapp/main.py",
+		"/home/vinothini/projects/DjangoWorkshop/position.html",
+		"/home/vinothini/projects/DjangoWorkshop/index.html",
+		"/home/vinothini/projects/DjangoWorkshop/resume.html",
+		"/home/vinothini/projects/virtualenvs/pdfminer/pdfminer-master/test.html",
+		"/home/vinothini/projects/testapp/index.yaml",
+		"/home/vinothini/projects/udacity web/play.html",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/Guessit/form.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/Guessit/models.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/Guessit/tests.py",
+		"/home/vinothini/projects/nodejs/public/socket.html",
+		"/home/vinothini/projects/reviews/tripadvisor/tripadvisor/spiders/firstspider.py",
+		"/home/vinothini/projects/nodejs/socket.html",
+		"/home/vinothini/projects/reviews/Orbitz/Orbitz/spiders/newyork.py",
+		"/home/vinothini/projects/reviews/Orbitz/Orbitz/items.py",
+		"/home/vinothini/projects/reviews/Orbitz/Orbitz/pipelines.py",
+		"/home/vinothini/projects/reviews/Manta/Manta/spiders/manta_spider.py",
+		"/home/vinothini/projects/reviews/Tripadvisor/Tripadvisor/spiders/bangaloreHotels.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/challenge",
+		"/home/vinothini/projects/reviews/Orbitz/Orbitz/settings.py",
+		"/home/vinothini/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/vinothini/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/vinothini/projects/reviews/tripadvisor/tripadvisor/items.py",
+		"/home/vinothini/projects/reviews/Manta/Manta/items.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/templates/Guessit/display_question.html",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/settings.py",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/templates/Guessit/base.html",
+		"/home/vinothini/projects/virtualenvs/SongQuiz/SongQuiz/urls.py",
+		"/home/vinothini/projects/virtualenvs/lyricsGame/scrapeArtist.js",
+		"/home/vinothini/projects/virtualenvs/python practice book/lyrics.csv",
+		"/var/www/backup/reader-lib/dist/js/markers.js",
+		"/var/www/backup/reader-lib/dist/js/renderer.js",
+		"/var/www/backup/reader-lib/dist/js/monocore.js",
+		"/var/www/syndicate/index.html",
+		"/home/vinothini/projects/virtualenvs/findsong/songapp/templates/find.html",
+		"/home/vinothini/projects/virtualenvs/findSong/lyrics.py",
+		"/var/www/parallax/index.html",
+		"/var/www/issue/home.html",
+		"/var/www/vino/reader-lib/reader-lib/tests/02-loadFullHTML.html",
+		"/var/www/issue/highlight.html",
+		"/var/www/issue/JS/renderer.js",
+		"/var/www/reader-lib/tests/02-loadFullHTML.html",
+		"/var/www/issue/JS/covutils.js",
+		"/var/www/issue/JS/markers.js",
+		"/var/www/issue/book155/OEBPS/xhtml/preface.xhtml",
+		"/var/www/backup/reader-lib/tests/02-loadFullHTML.html",
+		"/var/www/backup/reader-lib/tests/01-simple.html",
+		"/home/vinothini/projects/phantomjs/translate/postque.js",
+		"/home/vinothini/projects/virtualenvs/googletranslate/chineese/明報新聞網-體育-體育--藍斯130萬周薪留廠-20140306.html",
+		"/home/vinothini/projects/phantomjs/postque.js",
+		"/home/vinothini/projects/phantomjs/main.js",
+		"/home/vinothini/projects/phantomjs/phantomjswebintro.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n</",
+			"nav",
+			"navba",
+			"thankyou.html",
+			"alert-success",
+			"success",
+			"BUTTON",
+			"script",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"css",
+			"auto_complete",
+			"\n	",
+			"comment",
+			"myproject",
+			"')\n",
+			"OrbitzItem",
+			"Request",
+			"Selector",
+			"addToDOM",
+			"Marker class",
+			"Marker",
+			"sendprogress",
+			"val",
+			"values",
+			"savenotes",
+			"cbTextSelected",
+			"showiframe",
+			"setHighlights",
+			"cbonmessage",
+			"cbGetSelectedText",
+			"getSelectionObj",
+			"markermanager",
+			"addSearchListener",
+			"cbonmessage",
+			";\n",
+			"textNodesUnder",
+			"highlightWord",
+			"login_required",
+			"Live Examples",
+			"epubjs",
+			"epub.js",
+			"epub.min.js",
+			"jquery",
+			"EPUBJS",
+			"jquery.min",
+			"jquery.min.map ",
+			"map",
+			"resources.mkd",
+			"MArginal",
+			"del_search",
+			"OnMessage",
+			"onmessage",
+			"addeventlistener",
+			"sendprogress1",
+			"event.",
+			"results",
+			"search_results",
+			"sendprogress1",
+			"deleteHighlight",
+			"sendprogress1",
+			"sendprogress",
+			"search_results",
+			"searchnodexpaths",
+			"finalnodes",
+			"addSearchListener",
+			"getCurrentPageTextSnippet",
+			"sendprogress1",
+			"sendProgress1",
+			"sendprogress1",
+			"addsea",
+			"sendprogress1",
+			"sendProgress1",
+			"sendProgress",
+			"tapped",
+			"REGIONS",
+			"pageLength",
+			"percentToPageNumber",
+			"pagenumber",
+			"percenttopagenumber",
+			"markerspan",
+			"indexof",
+			"className",
+			"Monocle.Book",
+			"Monocle.Book#pageNumberAt",
+			"REGIO",
+			"percentageThroughOfNode",
+			"page",
+			"getMarkedXpath",
+			"getNonMarkedXpath",
+			"getMarkedXpath",
+			"getNonMarkedXpath",
+			"bookrenderer.sendprogress",
+			"sendProgress",
+			"search_word",
+			"initialize",
+			"highlight",
+			"marker.id",
+			"marker",
+			"newMarkerId",
+			"gotomarker",
+			"Marker",
+			"marker",
+			"options",
+			"newMarkerId",
+			"mrkr",
+			"highlightsManager",
+			"highlightsmanager",
+			"savehighlight",
+			"announce",
+			"gotomarker",
+			"bms",
+			"notes",
+			"bms",
+			"bookmark",
+			"result",
+			"xpath",
+			"set",
+			"setdata",
+			"xpath",
+			"options",
+			"element",
+			"span",
+			"color",
+			"getnodeforxpath",
+			"getxpathfornode",
+			"getNodeForXPath",
+			"getnodeforxpath",
+			"highli"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/SongQuiz/settings.py",
+					"settings":
+					{
+						"buffer_size": 2101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1867,
+								1867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/static/templates/display_question.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/static/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Guessit/models.py",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Guessit/admin.py",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/SongQuiz/urls.py",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/Guessit/views.py",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"dist/README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 744.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/vinothini/Desktop/Backbone_learning/Backbone/sample.sublime-project"
+			]
+		],
+		"width": 1301.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}

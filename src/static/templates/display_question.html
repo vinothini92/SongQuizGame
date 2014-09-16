@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}{% endblock %}
+
+{% block body_block %}
+	
+        {% comment %} 
+        ### This is manual way of doing it.Below one after this comment is done using form
+        {% for song in songs %}
+        <p> Your question:<strong>"{{ song.lyrics }}"</strong></p>
+        <form action="/validate/" method="POST">
+        <label>Your answer:</label><br>
+        <textarea name="answer" rows="5" cols="30"></textarea>
+        <br>
+        <input type="submit" value="Submit">
+        {% endfor %}
+        {% endcomment %}
+        
+        <p><strong>Your question {{ quesno_id.id}} : </strong></p>
+        "{{ song_data.lyrics }}"
+        <p><strong>Type your answer here :</strong></p>
+        <form id='song_form' method = 'post' action="">{% csrf_token %}
+            {% for hidden in form.hidden_fields %}
+                {{ hidden }}
+            {% endfor %}
+            
+            {% for field in form.visible_fields %}
+                {{ field.errors }}
+                {{ field.help_text }}
+                {{ field }}
+            {% endfor %}
+            <br></br>
+            <input type ="submit" name="submit" value="Submit"/>
+        </form>
+        
+{% endblock %}
