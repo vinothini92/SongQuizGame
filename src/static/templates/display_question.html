@@ -5,7 +5,7 @@
 {% block body_block %}
 	
         {% comment %} 
-        ### This is manual way of doing it.Below one after this comment is done using form
+        ### This is manual way of doing it.Below one after this comment is done using django form
         {% for song in songs %}
         <p> Your question:<strong>"{{ song.lyrics }}"</strong></p>
         <form action="/validate/" method="POST">

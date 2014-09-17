@@ -3,13 +3,20 @@
 	<head>
 		<title>Welcome to SongQuiz Game</title>
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<!-- Bootstrap core CSS -->
-		<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/bootstrap.min.css">
-		<!-- Custom styles for this template -->
-		<link href="{{STATIC_URL}}css/jumbotron.css" rel="stylesheet">
-
+		<link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css">
 	</head>
 	<body>
-		
+	<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<h1>Welcome to Song Quiz game</h1>
+			<p>This is a simple game to test your knowledge of Tamizh song lyrics</p>
+			<h2>How to play?</h2>
+			<p>Any random two lines from a song will be displayed.You need to type <strong>only first three words from the first line of that song</strong>.
+			<p>If your answer is correct,next song will be displayed.</p>
+			<a href="/SongQuiz/question/1"><button type="button" class="btn active btn-primary">Start</button></a>
+		</div>
+	</div>
+	</div>
 	</body>
 </html>

@@ -13,7 +13,7 @@ from Guessit.form import Song_form
 # Create your views here.
 
 def home(request):
-	return HttpResponseRedirect('/SongQuiz/question/1')
+    return render_to_response('home.html')
 
 def display_question(request,question_id):
     context = RequestContext(request)
@@ -21,7 +21,7 @@ def display_question(request,question_id):
         quesno_id = {'id':question_id}
         song_data = Songdata.objects.get(song_id=question_id)
     except Songdata.DoesNotExist:
-        pass   #Come back here if question of that id not present what to do
+        pass   #Come back here later
         
     if request.method == 'POST':
         form = Song_form(request.POST)
