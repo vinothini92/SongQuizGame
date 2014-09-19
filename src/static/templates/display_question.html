@@ -16,7 +16,7 @@
         {% endfor %}
         {% endcomment %}
         
-        <p><strong>Your question {{ quesno_id.id}} : </strong></p>
+        <p><strong>Your Lyrics {{ quesno_id.id }} of {{ total_ques }}: </strong></p>
         "{{ song_data.lyrics }}"
         <p><strong>Type your answer here :</strong></p>
         <form id='song_form' method = 'post' action="">{% csrf_token %}
