@@ -1,6 +1,8 @@
-<html>
-<body>
+{% extends 'base.html' %}
+
+
+{% block body_block %}
 <h2>Game over</h2>
-</body>
-</html>
+<a href='{% url "home" %}'><button type="button" class="btn active btn-primary">Restart</button></a>
+{% endblock %}
 
