@@ -16,10 +16,10 @@
         {% endfor %}
         {% endcomment %}
         
-        <p><strong>Your Lyrics {{ quesno_id.id }} of {{ total_ques }}: </strong></p>
+        <p><strong>Your Lyrics {{ quesno_id }} of {{ total_ques }}: </strong></p>
         "{{ song_data.lyrics }}"
         <p><strong>Type your answer here :</strong></p>
-        <form id='song_form' method = 'post' action="">{% csrf_token %}
+        <form id='song_form' method = 'post' action="" >{% csrf_token %}
             {% for hidden in form.hidden_fields %}
                 {{ hidden }}
             {% endfor %}

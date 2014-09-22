@@ -9,15 +9,14 @@ from Guessit.models import Songdata
 #form
 from Guessit.form import Song_form
 
-# question_id = 1
+question_id = 1
 # Create your views here.
 
 def home(request):
     return render_to_response('home.html')
 
-def display_question(request,question_id):
-    #global question_id
-    #question_id = 1
+def display_question(request):
+    global question_id
     context = RequestContext(request)
     try:
         #quesno_id = {'id':question_id}
@@ -32,12 +31,13 @@ def display_question(request,question_id):
             user_answer = form.cleaned_data['answer']
             if song_data.song_name.strip() == user_answer.strip():
                 if int(question_id) < int(total_ques):
-                    # question_id = question_id+1
-                    # print question_id
+                    question_id = question_id+1
+                    print question_id
                     song_data = Songdata.objects.get(song_id=question_id)
-                    # print song_data.lyrics
-                    # return render_to_response('display_question.html', {'form':form,'song_data':song_data,'quesno_id':question_id,'total_ques':total_ques},context)
-                    return HttpResponseRedirect("/SongQuiz/question/%s/" % (int(question_id)+1))
+                    print song_data.lyrics
+                    form = Song_form()
+                    return render_to_response('display_question.html', {'form':form,'song_data':song_data,'quesno_id':question_id,'total_ques':total_ques},context)
+                    #return HttpResponseRedirect("/SongQuiz/question/%s/" % (int(question_id)+1))
                 else:
                     return render_to_response('results.html')
             else:
