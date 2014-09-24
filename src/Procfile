@@ -1,2 +1,1 @@
-web: gunicorn SongQuiz.wsgi:application
-
+web: gunicorn /home/vinothini/projects/virtualenvs/SongQuizGame/src/SongQuiz:app
