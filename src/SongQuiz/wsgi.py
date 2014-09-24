@@ -1,5 +1,4 @@
- """
-WSGI config for SongQuiz project.
+"""WSGI config for SongQuiz project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -12,9 +11,6 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "SongQuiz.settings")
 
 from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
-
-import django.core.handlers.wsgi
-application = django.core.handlers.wsgi.WSGIHandler()
 
 
 

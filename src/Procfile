@@ -1,1 +1,2 @@
-web: python manage.py runserver 0.0.0.0:$PORT
+web: gunicorn --pythonpath=./home/vinothini/projects/virtualenvs/SongQuizGame/src SongQuiz.wsgi:application -b 0.0.0.0:8000
+
