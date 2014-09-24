@@ -31,9 +31,7 @@ def display_question(request):
             if song_data.song_name.strip().lower() == user_answer.strip().lower():
                 if int(question_id) < int(total_ques):
                     question_id = question_id+1
-                    print question_id
                     song_data = Songdata.objects.get(song_id=question_id)
-                    print song_data.lyrics
                     form = Song_form()
                     return render_to_response('display_question.html', {'form':form,'song_data':song_data,'quesno_id':question_id,'total_ques':total_ques},context)
                 else:
