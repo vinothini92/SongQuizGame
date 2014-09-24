@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath /home/vinothini/projects/virtualenvs/SongQuizGame/src SongQuiz.wsgi
+web: gunicorn SongQuizGame.wsgi --log-file -
 
