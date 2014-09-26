@@ -17,13 +17,12 @@ def home(request):
 
 def display_question(request):
     global question_id
-    global song_data
     context = RequestContext(request)
-    try:
-        song_data = Songdata.objects.get(song_id=question_id)
-        total_ques = Songdata.objects.all().count()
-    except Songdata.DoesNotExist:
-        pass   #Come back here later
+    # try:
+    song_data = Songdata.objects.get(song_id=question_id)
+    total_ques = Songdata.objects.all().count()
+    # except Songdata.DoesNotExist:
+        # pass   #Come back here later
        
     if request.method == 'POST':
         form = Song_form(request.POST)
