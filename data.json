@@ -1,4 +1,3 @@
-/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates
 [
 {
   "pk": 1, 
@@ -159,10 +158,7 @@
   "fields": {
     "codename": "add_permission", 
     "name": "Can add permission", 
-    "content_type": [
-      "auth", 
-      "permission"
-    ]
+    "content_type": 1
   }
 },
 {
@@ -171,10 +167,7 @@
   "fields": {
     "codename": "change_permission", 
     "name": "Can change permission", 
-    "content_type": [
-      "auth", 
-      "permission"
-    ]
+    "content_type": 1
   }
 },
 {
@@ -183,10 +176,7 @@
   "fields": {
     "codename": "delete_permission", 
     "name": "Can delete permission", 
-    "content_type": [
-      "auth", 
-      "permission"
-    ]
+    "content_type": 1
   }
 },
 {
@@ -195,10 +185,7 @@
   "fields": {
     "codename": "add_group", 
     "name": "Can add group", 
-    "content_type": [
-      "auth", 
-      "group"
-    ]
+    "content_type": 2
   }
 },
 {
@@ -207,10 +194,7 @@
   "fields": {
     "codename": "change_group", 
     "name": "Can change group", 
-    "content_type": [
-      "auth", 
-      "group"
-    ]
+    "content_type": 2
   }
 },
 {
@@ -219,10 +203,7 @@
   "fields": {
     "codename": "delete_group", 
     "name": "Can delete group", 
-    "content_type": [
-      "auth", 
-      "group"
-    ]
+    "content_type": 2
   }
 },
 {
@@ -231,10 +212,7 @@
   "fields": {
     "codename": "add_user", 
     "name": "Can add user", 
-    "content_type": [
-      "auth", 
-      "user"
-    ]
+    "content_type": 3
   }
 },
 {
@@ -243,10 +221,7 @@
   "fields": {
     "codename": "change_user", 
     "name": "Can change user", 
-    "content_type": [
-      "auth", 
-      "user"
-    ]
+    "content_type": 3
   }
 },
 {
@@ -255,10 +230,7 @@
   "fields": {
     "codename": "delete_user", 
     "name": "Can delete user", 
-    "content_type": [
-      "auth", 
-      "user"
-    ]
+    "content_type": 3
   }
 },
 {
@@ -267,10 +239,7 @@
   "fields": {
     "codename": "add_contenttype", 
     "name": "Can add content type", 
-    "content_type": [
-      "contenttypes", 
-      "contenttype"
-    ]
+    "content_type": 5
   }
 },
 {
@@ -279,10 +248,7 @@
   "fields": {
     "codename": "change_contenttype", 
     "name": "Can change content type", 
-    "content_type": [
-      "contenttypes", 
-      "contenttype"
-    ]
+    "content_type": 5
   }
 },
 {
@@ -291,10 +257,7 @@
   "fields": {
     "codename": "delete_contenttype", 
     "name": "Can delete content type", 
-    "content_type": [
-      "contenttypes", 
-      "contenttype"
-    ]
+    "content_type": 5
   }
 },
 {
@@ -303,10 +266,7 @@
   "fields": {
     "codename": "add_session", 
     "name": "Can add session", 
-    "content_type": [
-      "sessions", 
-      "session"
-    ]
+    "content_type": 6
   }
 },
 {
@@ -315,10 +275,7 @@
   "fields": {
     "codename": "change_session", 
     "name": "Can change session", 
-    "content_type": [
-      "sessions", 
-      "session"
-    ]
+    "content_type": 6
   }
 },
 {
@@ -327,10 +284,7 @@
   "fields": {
     "codename": "delete_session", 
     "name": "Can delete session", 
-    "content_type": [
-      "sessions", 
-      "session"
-    ]
+    "content_type": 6
   }
 },
 {
@@ -339,10 +293,7 @@
   "fields": {
     "codename": "add_site", 
     "name": "Can add site", 
-    "content_type": [
-      "sites", 
-      "site"
-    ]
+    "content_type": 7
   }
 },
 {
@@ -351,10 +302,7 @@
   "fields": {
     "codename": "change_site", 
     "name": "Can change site", 
-    "content_type": [
-      "sites", 
-      "site"
-    ]
+    "content_type": 7
   }
 },
 {
@@ -363,10 +311,7 @@
   "fields": {
     "codename": "delete_site", 
     "name": "Can delete site", 
-    "content_type": [
-      "sites", 
-      "site"
-    ]
+    "content_type": 7
   }
 },
 {
@@ -375,10 +320,7 @@
   "fields": {
     "codename": "add_songdata", 
     "name": "Can add songdata", 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "content_type": 8
   }
 },
 {
@@ -387,10 +329,7 @@
   "fields": {
     "codename": "change_songdata", 
     "name": "Can change songdata", 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "content_type": 8
   }
 },
 {
@@ -399,10 +338,7 @@
   "fields": {
     "codename": "delete_songdata", 
     "name": "Can delete songdata", 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "content_type": 8
   }
 },
 {
@@ -411,10 +347,7 @@
   "fields": {
     "codename": "add_logentry", 
     "name": "Can add log entry", 
-    "content_type": [
-      "admin", 
-      "logentry"
-    ]
+    "content_type": 9
   }
 },
 {
@@ -423,10 +356,7 @@
   "fields": {
     "codename": "change_logentry", 
     "name": "Can change log entry", 
-    "content_type": [
-      "admin", 
-      "logentry"
-    ]
+    "content_type": 9
   }
 },
 {
@@ -435,10 +365,7 @@
   "fields": {
     "codename": "delete_logentry", 
     "name": "Can delete log entry", 
-    "content_type": [
-      "admin", 
-      "logentry"
-    ]
+    "content_type": 9
   }
 },
 {
@@ -447,10 +374,7 @@
   "fields": {
     "codename": "add_songdata", 
     "name": "Can add songdata", 
-    "content_type": [
-      "SongQuiz", 
-      "songdata"
-    ]
+    "content_type": 10
   }
 },
 {
@@ -459,10 +383,7 @@
   "fields": {
     "codename": "change_songdata", 
     "name": "Can change songdata", 
-    "content_type": [
-      "SongQuiz", 
-      "songdata"
-    ]
+    "content_type": 10
   }
 },
 {
@@ -471,10 +392,7 @@
   "fields": {
     "codename": "delete_songdata", 
     "name": "Can delete songdata", 
-    "content_type": [
-      "SongQuiz", 
-      "songdata"
-    ]
+    "content_type": 10
   }
 },
 {
@@ -504,13 +422,8 @@
     "object_repr": "Songdata object", 
     "object_id": "1", 
     "change_message": "", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -522,13 +435,8 @@
     "object_repr": "Songdata object", 
     "object_id": "1", 
     "change_message": "No fields changed.", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -540,13 +448,8 @@
     "object_repr": "Yaar Yaar Sivam", 
     "object_id": "2", 
     "change_message": "", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -558,13 +461,8 @@
     "object_repr": "Yaar Yaar Sivam", 
     "object_id": "2", 
     "change_message": "No fields changed.", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -576,13 +474,8 @@
     "object_repr": "Akadanu naanga", 
     "object_id": "3", 
     "change_message": "", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -594,13 +487,8 @@
     "object_repr": "Kanimozhiye", 
     "object_id": "4", 
     "change_message": "", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -612,13 +500,8 @@
     "object_repr": "Kanimozhiye", 
     "object_id": "4", 
     "change_message": "No fields changed.", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 },
 {
@@ -630,13 +513,8 @@
     "object_repr": "kaadhal Sadugudugudu ", 
     "object_id": "5", 
     "change_message": "", 
-    "user": [
-      "vinothini"
-    ], 
-    "content_type": [
-      "Guessit", 
-      "songdata"
-    ]
+    "user": 1, 
+    "content_type": 8
   }
 }
 ]
