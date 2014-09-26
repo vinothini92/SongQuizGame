@@ -16,6 +16,7 @@ def home(request):
     return render_to_response('home.html')
 
 def display_question(request):
+    global question_id
     context = RequestContext(request)
     try:
         song_data = Songdata.objects.get(song_id=question_id)
