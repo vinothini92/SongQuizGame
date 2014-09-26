@@ -17,9 +17,9 @@ def home(request):
 
 def display_question(request):
     global question_id
+    global song_data
     context = RequestContext(request)
     try:
-        global song_data
         song_data = Songdata.objects.get(song_id=question_id)
         total_ques = Songdata.objects.all().count()
     except Songdata.DoesNotExist:
