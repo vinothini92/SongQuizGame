@@ -1,5 +1,4 @@
-"""
-Django settings for SongQuiz project.
+"""Django settings for SongQuiz project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.6/topics/settings/
@@ -12,10 +11,6 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
-# Parse database configuration from $DATABASE_URL
-import dj_database_url
-...
-DATABASES['default'] =  dj_database_url.config()
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
@@ -103,3 +98,6 @@ if DEBUG:
     STATICFILES_DIRS  = (
         os.path.join(BASE_DIR,'static','static'),
         )
+        
+
+
