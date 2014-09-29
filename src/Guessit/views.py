@@ -13,6 +13,7 @@ question_id = 1
 # Create your views here.
 
 def home(request):
+    question_id = 1
     return render_to_response('home.html')
 
 def display_question(request):
@@ -35,7 +36,7 @@ def display_question(request):
                     form = Song_form()
                     return render_to_response('display_question.html', {'form':form,'song_data':song_data,'quesno_id':question_id,'total_ques':total_ques},context)
                 else:
-                    return render_to_response('results.html',context,locals())
+                    return render_to_response('results.html',context)
             else:
                 return HttpResponse("Your answer is wrong")
         else:
