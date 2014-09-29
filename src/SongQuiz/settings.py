@@ -23,7 +23,7 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['songquizgame.herokuapp.com']
 
 
 # Application definition
@@ -66,9 +66,7 @@ DATABASES = {
 }
 
 
-if not os.environ.get("HOME") == '/home/vinothini':
-    import dj_database_url
-    DATABASES['default'] = dj_database_url.config()
+
 
 
 # Internationalization
@@ -100,5 +98,8 @@ if DEBUG:
         os.path.join(BASE_DIR,'static','static'),
         )
         
+import dj_database_url
+DATABASES['default'] = dj_database_url.config()
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
