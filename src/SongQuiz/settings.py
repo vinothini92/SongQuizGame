@@ -57,10 +57,11 @@ WSGI_APPLICATION = 'SongQuiz.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'SongQuiz',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'songquiz',
         'USER': 'vinothini',
         'PASSWORD' : 'vinothini',
+        'HOST' : 'localhost',
     }
 }
 
