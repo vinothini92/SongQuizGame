@@ -35,7 +35,7 @@ def display_question(request):
                     form = Song_form()
                     return render_to_response('display_question.html', {'form':form,'song_data':song_data,'quesno_id':question_id,'total_ques':total_ques},context)
                 else:
-                    return render_to_response('results.html',context)
+                    return render_to_response('results.html',context,locals())
             else:
                 return HttpResponse("Your answer is wrong")
         else:
