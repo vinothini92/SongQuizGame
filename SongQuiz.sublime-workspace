@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/static/templates/base.html",
+			"file": "src/static/templates/results.html",
 			"settings":
 			{
-				"buffer_size": 585,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/Guessit/tests.py",
-			"settings":
-			{
-				"buffer_size": 60,
+				"buffer_size": 187,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,15 +531,15 @@
 			"file": "src/Guessit/views.py",
 			"settings":
 			{
-				"buffer_size": 1703,
+				"buffer_size": 1750,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/SongQuiz/settings.py",
+			"file": "src/static/templates/display_question.html",
 			"settings":
 			{
-				"buffer_size": 2393,
+				"buffer_size": 1235,
 				"line_ending": "Unix"
 			}
 		},
@@ -560,10 +552,18 @@
 			}
 		},
 		{
-			"file": "src/Guessit/models.py",
+			"file": "src/static/templates/home.html",
 			"settings":
 			{
-				"buffer_size": 257,
+				"buffer_size": 835,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 585,
 				"line_ending": "Unix"
 			}
 		}
@@ -612,22 +612,23 @@
 	},
 	"file_history":
 	[
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates/base.html",
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/tests.py",
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/models.py",
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/SongQuiz/urls.py",
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/SongQuiz/settings.py",
+		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/views.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates/display_question.html",
 		"/home/vinothini/projects/learn_JS/js/arrays.js",
 		"/home/vinothini/projects/learn_JS/js/objects.js",
 		"/home/vinothini/projects/learn_JS/js/strings.js",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates/home.html",
-		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/views.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates/results.html",
-		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/SongQuiz/urls.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/challenges",
-		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/SongQuiz/settings.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/form.py",
-		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/models.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/Guessit/admin.py",
 		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/static/css/custom.css",
 		"/home/vinothini/projects/open_source_projects/backbone-quiz/js/quiz/views/answerView.js",
-		"/home/vinothini/projects/virtualenvs/SongQuizGame/src/static/templates/base.html",
 		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/mvp_landing/settings.py",
 		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/static/templates/navbar.html",
 		"/home/vinothini/projects/virtualenvs/skillshare/mvp_landing/mvp_landing/urls.py",
@@ -883,23 +884,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/static/templates/base.html",
+					"file": "src/static/templates/results.html",
 					"settings":
 					{
-						"buffer_size": 585,
+						"buffer_size": 187,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								15
+								91,
+								91
 							]
 						],
 						"settings":
@@ -1008,8 +1009,7 @@
 							},
 							"codeintel_tooltips": "popup",
 							"sublime_auto_complete": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1019,10 +1019,142 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/Guessit/tests.py",
+					"file": "src/Guessit/views.py",
 					"settings":
 					{
-						"buffer_size": 60,
+						"buffer_size": 1750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/static/templates/display_question.html",
+					"settings":
+					{
+						"buffer_size": 1235,
 						"regions":
 						{
 						},
@@ -1035,7 +1167,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1044,271 +1178,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/Guessit/views.py",
-					"settings":
-					{
-						"buffer_size": 1703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								557,
-								557
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 108.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 3,
-					"file": "src/SongQuiz/settings.py",
-					"settings":
-					{
-						"buffer_size": 2393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2162,
-								2162
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1350.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "src/SongQuiz/urls.py",
 					"settings":
 					{
@@ -1319,8 +1189,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								198,
+								198
 							]
 						],
 						"settings":
@@ -1334,24 +1204,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "src/Guessit/models.py",
+					"buffer": 4,
+					"file": "src/static/templates/home.html",
 					"settings":
 					{
-						"buffer_size": 257,
+						"buffer_size": 835,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								242,
-								242
+								730,
+								730
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/static/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
