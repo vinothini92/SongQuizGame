@@ -8,9 +8,10 @@ from django.template import RequestContext
 from Guessit.models import Songdata
 #form
 from Guessit.form import Song_form
-
+import difflib
 #question_id = 1
 # Create your views here.
+threshold_value = 0.45
 
 def home(request):
     #question_id = 1
@@ -30,7 +31,8 @@ def display_question(request):
         form = Song_form(request.POST)
         if form.is_valid():
             user_answer = form.cleaned_data['answer']
-            if song_data.song_name.strip().lower() == user_answer.strip().lower():
+            if difflib.SequenceMatcher(None,song_data.song_name.strip().lower(),user_answer.strip().lower()).ratio() > threshold_value:
+            #if song_data.song_name.strip().lower() == user_answer.strip().lower():
                 if int(question_id) < int(total_ques):
                     question_id = question_id+1
                     request.session['question_id'] = question_id
